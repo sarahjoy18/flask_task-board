@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah",
+    "color": "#667eea"
+  },
+  {
+    "id": 2,
+    "name": "Joy",
+    "color": "#764ba2"
+  },
+  {
+    "id": 3,
+    "name": "Lambino",
+    "color": "#f093fb"
+  },
+  {
+    "id": 4,
+    "name": "Marquez",
+    "color": "#4facfe"
+  }
+]

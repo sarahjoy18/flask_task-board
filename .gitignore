@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Flask
+instance/
+.webassets-cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Generated files
+todos.json
+src/output.css
+
+# OS
+.DS_Store
+Thumbs.db
+
+#tailwindcss
+tailwindcss.exe
